@@ -1,7 +1,7 @@
 ---
-name: Bug Report Title
+name: Report a bug
 about: Create a report to help us improve
-title: ''
+title: 'Bug Report Title'
 labels: ''
 assignees: OlfaBensoussia
 
